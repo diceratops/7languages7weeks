@@ -44,8 +44,8 @@ Amendments to ***this*** repository will be made by
 
 --add your info below instead of mine--
 
-* [@SusanPotter](http://twitter.com/SusanPotter) also known as 
-* [mbbx6spp on GitHub](http://github.com/mbbx6spp).
+* [@diceratops](http://twitter.com/diceratops) also known as 
+* [diceratops on GitHub](http://github.com/diceratops).
 
 --add your info above instead of mine--
 
