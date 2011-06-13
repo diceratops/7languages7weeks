@@ -3,22 +3,22 @@
 
 ## Site author's information.
 author:
-  name:      Susan Potter
-  title:     Software Engineer
-  email:     me@susanpotter.net
-  site:      http://susanpotter.net
-  location:  "Urbana, IL, US"
+  name:      Sarah Riggs
+  title:     Information Scientist
+  email:     diceratops@gmail.com
+  site:      http://www.sarahriggs.com
+  location:  "Durham, NC, US"
   gh:
-    user:    mbbx6spp
+    user:    diceratops
     repo:    7languages7weeks
-  twitter:   SusanPotter
-  disqus: 
+  twitter:   diceratops
+  # disqus: 
     # if you don't have disqus setup for this new site, please make sure to comment it.
-    shortname: mbbx6spp-github-blog
+    shortname: diceratops-github-blog
 
 ## The absolute URL of your site. Should be user.github.com or whatever is in
 ## the root CNAME file
-url:         http://mbbx6spp.github.com/7languages7weeks
+url:         http://diceratops.github.com/7languages7weeks
 
 ## The name of the site, <title> and <h1> in _layouts/default.html
 title:       "Seven Languages in Seven Weeks #7languages7weeks blog"
