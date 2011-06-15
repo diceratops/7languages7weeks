@@ -1,0 +1,16 @@
+If one type of functionality that was repeatedly developed (“web
+interface”) is excluded, the overlap is even lower (see table 2.2). Other
+responses by study participants add to this impression of high heterogene-
+ity of need among users. Thirty percent of the respondents reported that
+their library IT system had been highly customized by the manufacturer
+during installation to meet their specific needs. In addition, 54 percent of
+study respondents agreed with the statement “We would like to make addi-
+tional improvements to our IT system functionality that can’t be made by
+simply adjusting the standard, customer-accessible parameters provided
+by the supplier.”
+Similar moderate overlap in the characteristics of user innovations can be
+seen in innovation descriptions provided in the study of mountain biking
+by Lüthje, Herstatt, and von Hippel (2002). In that study sample, I estimate
+that at most 10 of 43 innovations had functionality similar to that of
+another sample member. 
+
