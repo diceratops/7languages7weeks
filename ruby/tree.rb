@@ -20,8 +20,8 @@ class Tree
 	end
 end
 
-my_family_hash = { 'grandpa' => 
-           { 'dad' => { 'child 1' => {'peter' => {}}, 'child 2' => {'john' => {}} }, 
+my_family_hash = { 'grandpa' => {
+           'dad' => { 'child 1' => {'peter' => {}}, 'child 2' => {'john' => {}} }, 
            'uncle' => { 'child 3' => {}, 'child 4' => {} } } }
 
 #pass Tree a parameter called my_family_hash
