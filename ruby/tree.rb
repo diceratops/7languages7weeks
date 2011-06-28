@@ -1,7 +1,8 @@
 class Tree
 	attr_accessor :children, :node_name
 	def initialize(familyHash)
-		#go through the hash, set node_name to be the key(parent) of the first element in the hash, then add as children, the value(child) of that key.
+		#go through the hash, set node_name to be the key(parent) of the first
+                #element in the hash, then add as children, the value(child) of that key.
 		familyHash.each do |parent, child|
 			@node_name = parent
 			@children = []
@@ -19,7 +20,9 @@ class Tree
 	end
 end
 
-my_family_hash = { 'grandpa' => { 'dad' => { 'child 1' => {'peter' => {}}, 'child 2' => {'john' => {}} },  'uncle' => { 'child 3' => {}, 'child 4' => {} } } }
+my_family_hash = { 'grandpa' => {
+           'dad' => { 'child 1' => {'peter' => {}}, 'child 2' => {'john' => {}} }, 
+           'uncle' => { 'child 3' => {}, 'child 4' => {} } } }
 
 #pass Tree a parameter called my_family_hash
 family_tree = Tree.new(my_family_hash)
