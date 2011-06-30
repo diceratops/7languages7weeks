@@ -25,7 +25,3 @@ plays_instrument(X, Y) :- plays(X, Y).
 plays_genre(X, Z) :- genre(X, Z).
 
 instrument_genre(Y, Z) :- genre(X, Z), plays(X, Y).
-
-
-
-//There's an issue here! If you ask for (Instrument, bluegrass), you get returned mandolin twice! I'm not sure how to fix this yet, but i'm hoping to be illuminated in a few chapters down the road.
